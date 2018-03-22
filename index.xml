@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecem Unal</title>
+    <link>http://ecemunal.xyz/</link>
+    <description>Recent content on Ecem Unal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 11:37:11 +0300</lastBuildDate>
+    
+	<atom:link href="http://ecemunal.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://ecemunal.xyz/blog/hello-world/</link>
+      <pubDate>Thu, 22 Mar 2018 11:37:11 +0300</pubDate>
+      
+      <guid>http://ecemunal.xyz/blog/hello-world/</guid>
+      <description>Testing a new blog wouldn&amp;rsquo;t be complete without a &amp;ldquo;Hello World&amp;rdquo; post.
+package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;こんにちは世界&amp;quot;) }  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://ecemunal.xyz/about/</link>
+      <pubDate>Thu, 22 Mar 2018 11:37:05 +0300</pubDate>
+      
+      <guid>http://ecemunal.xyz/about/</guid>
+      <description>Another software developer in the wild.</description>
+    </item>
+    
+  </channel>
+</rss>

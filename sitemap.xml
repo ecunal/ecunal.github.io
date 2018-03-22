@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ecemunal.xyz/blog/hello-world/</loc>
+    <lastmod>2018-03-22T11:37:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ecemunal.xyz/about/</loc>
+    <lastmod>2018-03-22T11:37:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ecemunal.xyz/blog/</loc>
+    <lastmod>2018-03-22T11:37:11+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ecemunal.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ecemunal.xyz/</loc>
+    <lastmod>2018-03-22T11:37:11+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ecemunal.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
